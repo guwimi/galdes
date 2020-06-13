@@ -1264,7 +1264,7 @@ form .box-6:nth-child(2n) {
 
 .jt-menu-bar h2 {
     position: absolute;
-    z-index: 8;
+    z-index: 4;
     top: 0;
     left: 10px;
     color: #fff;
